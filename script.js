@@ -1,17 +1,8 @@
 const messages = [
-  "Yanyra ❤️",
-  "Fea!",
-  "Contigo todo es mejor 💕",
-  "Cada día te quiero más 💫",
-  "Con solo mirarte, se me olvidan los problemas 🥺",
-  "Eres ese instante eterno que quiero repetir toda la vida 🌛",
-  "Te pienso, y sonrío 🤭 JYRV",
-  "Como dijo mi abuelita! jajaja",
-  "No hay nada más bonito que verte feliz 🤗",
-  "Eres esa canción que no me canso de escuchar (Otro atardecer) 🎵",
-  "TQM🌠" ,
-  "Tu eres la historia que no quiero que termine 🌌",
-  "Gracias por existir y por ser tú 🦋",
+  "Dia uno sin ella: duele mucho",
+  "Yanyra, eres todo para mi, no quiero olvidarte",
+  "😭😭😭😭 Te extraño",
+  "Te amo, dame otra oportunidad"
 ];
 
 function createBubble() {
